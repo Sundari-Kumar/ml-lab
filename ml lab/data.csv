@@ -1,0 +1,10 @@
+"Sunny", "Warm", "Normal", "Strong", "Warm", "Same", "Yes",
+    "Sunny", "Warm", "High", "Strong", "Warm", "Same", "Yes",
+    "Rainy", "Cold", "High", "Strong", "Warm", "Change", "No",
+    "Sunny", "Warm", "High", "Strong", "Cool", "Change", "Yes",
+    "Overcast", "Hot", "High", "Weak", "Cool", "Same", "Yes",
+    "Rainy", "Warm", "High", "Strong", "Warm", "Same", "No",
+    "Sunny", "Warm", "Normal", "Strong", "Warm", "Same", "Yes",
+    "Sunny", "Hot", "High", "Weak", "Cool", "Change", "Yes",
+    "Overcast", "Cold", "Normal", "Weak", "Warm", "Same", "Yes",
+    "Rainy", "Cold", "High", "Weak", "Cool", "Change", "No"
